@@ -1,0 +1,14 @@
+.wrapper {
+	display: flex;
+}
+
+.after-space {
+	padding-right: 30px;
+}
+
+.main-pos {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin-top: 20px;
+}
