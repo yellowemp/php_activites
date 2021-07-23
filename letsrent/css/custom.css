@@ -1,0 +1,25 @@
+.group-postion{
+	padding-top: 40px;
+	max-width: 500px;
+    margin: auto;
+}
+.group-container {
+	display: flex;
+	padding-bottom: 30px;
+
+}
+.label-text{
+	font-size: 15px;
+	text-align: center;
+	padding-top: 3px;
+}
+.label-margin {
+	padding-right: 10px;
+}
+.label-margin-pass {
+	padding-right: 13px;
+}
+.btn-align{
+	position: relative;
+	float: right;
+}
